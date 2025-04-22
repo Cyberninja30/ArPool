@@ -1,16 +1,6 @@
-# ArPool
+# 🌊 🚀 What is Arpool?
 
-# 🌊 Arpool
-
-**Arpool** is a decentralized, community-powered pool designed specifically for the **Arweave blockchain ecosystem**. Built on top of Arweave’s permaweb infrastructure and SmartWeave smart contracts, Arpool enables transparent, trustless coordination of resources for dApps, storage, and ecosystem-level incentives.
-
----
-
-## 🚀 What is Arpool?
-
-Arpool is a decentralized pooling mechanism for the Arweave ecosystem. It allows users to collectively contribute AR tokens or storage to support permaweb projects, earn rewards, and participate in governance through profit-sharing mechanisms. It serves as a building block for long-term, community-aligned sustainability in decentralized applications.
-
----
+**Arpool** is a decentralized, community-powered pool designed specifically for the **Arweave blockchain ecosystem**. Built on top of Arweave’s permaweb infrastructure and SmartWeave smart contracts, Arpool enables transparent, trustless coordination of resources for dApps, storage, and ecosystem-level incentives. It allows users to collectively contribute AR tokens or storage to support permaweb projects, earn rewards, and participate in governance through profit-sharing mechanisms. It serves as a building block for long-term, community-aligned sustainability in decentralized applications.
 
 ## 🔗 Features
 
